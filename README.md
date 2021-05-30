@@ -1,2 +1,2 @@
-# Testing.github.io
+# BrucieMan.github.io
 Practicing HTML5
